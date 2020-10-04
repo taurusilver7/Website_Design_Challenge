@@ -4,6 +4,9 @@
 ***
 [![](https://img.shields.io/badge/-CDN%20JS%20Libraries-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://cdnjs.com/libraries/fontawesome-iconpicker)
 
+***
+**Stock Images**
+
 [![](https://img.shields.io/badge/-Bentely%20Car-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.bentleymotors.com/content/dam/bentley/Master/homepage%20carousel/1081_SP_Bentayga2Campaign_Hero06_v5a%20hpc%201920x1080%202.jpg.jpg/_jcr_content/renditions/original./1081_SP_Bentayga2Campaign_Hero06_v5a%20hpc%201920x1080%202.jpg.jpg)
 
 [![](https://img.shields.io/badge/-Mercedes%20Nuer%20Cls%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.daimler.com/bilder/produkte/pkw/mercedes-benz/neuer-cls/neuer-cls-4-w768xh384-cutout.jpg)
