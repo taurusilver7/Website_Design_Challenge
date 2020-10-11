@@ -7,4 +7,4 @@
 
 [![](https://img.shields.io/badge/-Portfolio%20Icon-1d52a8.svg?style=flat&colorA=0a0a0a)](https://www.favicon.cc/?action=icon&file_id=943768)
 
-[![](https://img.shields.io/badge/-Quote%20Icon-#591387.svg?style=flat&colorA=0a0a0a)](https://fontawesome.com/v4.7.0/icon/quote-right)
+[![](https://img.shields.io/badge/-Quote%20Icon-591387.svg?style=flat&colorA=0a0a0a)](https://fontawesome.com/v4.7.0/icon/quote-right)
