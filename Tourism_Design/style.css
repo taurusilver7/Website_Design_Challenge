@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./img/newyork2.jpg);
+    background-size: cover;
+    display: flex;
+    background-position: center center;
+    font-family: "Prata", sans-serif;
+    margin: 0;
+    min-height: 100vh;
+}
+
+aside {
+    background: #000000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 100vh;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+aside ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+aside a {
+    color: white;
+    font-size: 1.2rem;
+    display: inline-block;
+    text-decoration: none;
+    margin: 0.5rem;
+}
+
+.special {
+    background-color: #feab51;
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+main {
+    color: rgb(26, 9, 9);
+    font-size: 2rem;
+    padding: 3rem;
+}
+
+main h1 {
+    margin: 0;
+}
+
+main h3 {
+    color: #feab51;
+    margin: 0;
+}
+
+@media screen snd (max-width: 700px) {
+    body {
+        flex-direction: coulmn-reverse;
+        justify-content: space-between;
+    }
+    aside {
+        height: auto;
+        width: 100%;
+    }
+    aside ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .slide {
+        display: none;
+    }
+}
