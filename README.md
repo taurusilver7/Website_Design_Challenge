@@ -5,7 +5,7 @@
 ## List of websites designed
 > The 9 websites are placed in order of design & complexity. The later designs will be updated _soon_.
 
-- Automotive_design
+- [Automotive_design](https://taurusilver7.github.io/Website_Design_Challenge/Automotive_Design/)
 - Fashionwear_design
 - Footwear_design
 - Legal_design
