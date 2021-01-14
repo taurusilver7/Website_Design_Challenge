@@ -12,5 +12,5 @@
 - [Portfolio_design](https://taurusilver7.github.io/Website_Design_Challenge/Portfolio_Design/)
 - [Restaurant_design]
 - [Streaming_design]
-- [Tech_design
+- [Tech_design]
 - [Tourism_design
