@@ -11,6 +11,6 @@
 - [Legal_design](https://taurusilver7.github.io/Website_Design_Challenge/Legal_Advice_Design/)
 - [Portfolio_design](https://taurusilver7.github.io/Website_Design_Challenge/Portfolio_Design/)
 - [Restaurant_design](https://taurusilver7.github.io/Website_Design_Challenge/Restaurant_Design/)
-- [Streaming_design]
+- [Streaming_design](https://taurusilver7.github.io/Website_Design_Challenge/Streaming_Design/)
 - [Tech_design]
 - [Tourism_design]
