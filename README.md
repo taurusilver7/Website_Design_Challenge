@@ -10,7 +10,7 @@
 - [Footwear_design](https://taurusilver7.github.io/Website_Design_Challenge/footwear_design/)
 - [Legal_design](https://taurusilver7.github.io/Website_Design_Challenge/Legal_Advice_Design/)
 - [Portfolio_design](https://taurusilver7.github.io/Website_Design_Challenge/Portfolio_Design/)
-- [Restaurant_design]
+- [Restaurant_design](https://taurusilver7.github.io/Website_Design_Challenge/Restaurant_Design/)
 - [Streaming_design]
 - [Tech_design]
 - [Tourism_design]
