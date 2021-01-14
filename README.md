@@ -13,4 +13,4 @@
 - [Restaurant_design]
 - [Streaming_design]
 - [Tech_design]
-- [Tourism_design
+- Tourism_design
