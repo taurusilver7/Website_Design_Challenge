@@ -10,6 +10,9 @@
   <img src='./Automotive_Design/img/automobile.png' width='300' />
 </p>
 - [Fashionwear_design](https://taurusilver7.github.io/Website_Design_Challenge/Fashionwear_Design/)
+<p align='center'>
+  <img src='./Fashionwear_design/img/fashionwear.png' width='300' />
+</p>
 - [Footwear_design](https://taurusilver7.github.io/Website_Design_Challenge/footwear_design/)
 - [Legal_design](https://taurusilver7.github.io/Website_Design_Challenge/Legal_Advice_Design/)
 - [Portfolio_design](https://taurusilver7.github.io/Website_Design_Challenge/Portfolio_Design/)
