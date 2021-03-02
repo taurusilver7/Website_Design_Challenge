@@ -1,6 +1,8 @@
 # Footwear Website Design
 > A responsive,interactive footwear store website for practice.
-
+<p align='center'>
+  <img src="./img/footwear.png" width='300' />
+</p>
 ***
 
 [![](https://img.shields.io/badge/-CDN%20JS%20Libraries-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://cdnjs.com/libraries/fontawesome-iconpicker)
